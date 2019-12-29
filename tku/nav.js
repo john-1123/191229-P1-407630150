@@ -7,7 +7,7 @@ function change(index) {
       break;
 
     case 2:
-      p.innerHTML = "<iframe width=100% height=100% src='/./w01/pokemon.html' >";
+      p.innerHTML = "<iframe width=100% height=100% src='./w01/pokemon.html' >";
       break;
 
     case 3:
