@@ -3,7 +3,7 @@ function change(index) {
   p.style.backgroundColor = 'azure';
   switch (index) {
     case 1:
-      p.innerHTML = "<iframe width=100% height=100% src='./w01/intro.html' >";
+      p.innerHTML = "<iframe width=100% height=100% src='intro.html' >";
       break;
 
     case 2:
